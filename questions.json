@@ -1,0 +1,22 @@
+[
+{"cloze": "john",
+"partial": "is Mr. Big's real name.",
+"fullAnswer": "John is Mr. Big's real name."},
+
+{"cloze":"the daily star",
+"partial": "is the column that Carrie writes for on Sex and the City.",
+"fullAnswer": "Carrie writes a column for The Daily Star."},
+
+{"cloze": "furniture designer",
+"partial": "is Aiden's job on Sex and the City.",
+"fullAnswer": "Aiden is a furniture designer."},
+
+{"cloze":"a post-it",
+"partial": "is how Berger breaks up with Carrie.",
+"fullAnswer": "Berger breaks up with Carrie using a post-it."},
+
+{"cloze":"a motorcycle",
+"partial": "is what Berger buys to symbolize his break-up.",
+"fullAnswer": "Berger buys a motorcycle to symbolize his break-up."}
+
+]

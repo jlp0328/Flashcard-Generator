@@ -1,0 +1,30 @@
+[
+
+{"frontCard":"What is Mr. Big's real name?",
+"backCard": "john",
+"fullAnswer": "John is Mr. Big's real name."
+},
+
+{"frontCard": "Who does Carrie write a column for?",
+  "backCard": "the daily star",
+  "fullAnswer": "Carrie writes a column for The Daily Star."
+},
+
+{"frontCard":"What is Aiden's job?",
+  "backCard": "furniture designer",
+  "fullAnswer": "Aiden is a furniture designer."
+},
+
+{"frontCard":"How does Berger break-up with Carrie?",
+  "backCard":"a post-it note",
+  "fullAnswer": "Berger breaks up with Carrie using a post-it."
+
+},
+
+{
+  "frontCard":"What does Berger buy to symbolize his break-up?",
+  "backCard": "motorcycle",
+  "fullAnswer": "Berger buys a motorcycle to symbolize his break-up."
+}
+
+]
